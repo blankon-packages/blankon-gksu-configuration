@@ -1,0 +1,13 @@
+Source: blankon-gksu-configuration
+Section: devel
+Priority: extra
+Maintainer: BlankOn Developers <blankon-dev@googlegroups.com>
+Build-Depends: debhelper (>= 7), cdbs, libgconf2-dev, libgksu2-dev
+Standards-Version: 3.8.3
+Homepage: http://dev.blankonlinux.or.id/
+
+Package: blankon-gksu-configuration
+Architecture: any
+Depends: gksu,gconf2
+Description: blankon gksu configuration
+ blankon gksu configuration
