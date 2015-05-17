@@ -1,3 +1,9 @@
+blankon-gksu-configuration (0.4) tambora; urgency=medium
+
+  * Upstream release
+
+ -- Mijortsa <azis.astrojim@surabaya.di.blankon.in>  Mon, 18 May 2015 00:12:56 +0700
+
 blankon-gksu-configuration (0.3) rote; urgency=low
 
   * Fix "true" to true from debian/blankon-gksu-configuration.gconf-defaults
