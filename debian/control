@@ -7,7 +7,7 @@ Standards-Version: 3.8.3
 Homepage: http://dev.blankonlinux.or.id/
 
 Package: blankon-gksu-configuration
-Architecture: any
+Architecture: all
 Depends: gksu,gconf2
 Description: blankon gksu configuration
  blankon gksu configuration
